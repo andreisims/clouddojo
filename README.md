@@ -1,2 +1,2 @@
-# clouddojo
-Platform for my Cloud projects
+# Cloud-Dojo
+Platform for my Cloud projects and tutorials
